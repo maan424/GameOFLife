@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# Write of : Amin Nematollahifard
-# DT179G - Project
-"""
+
 Entities within this document is supporting the implementations of project assignment.
 
 """

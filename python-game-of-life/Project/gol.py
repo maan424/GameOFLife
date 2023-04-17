@@ -1,6 +1,4 @@
-#!/usr/bin/env python
-# The program of: Amin Nematollahifard
-# DT179G - Project
+
 """
 The universe of the Game of Life is an infinite two-dimensional orthogonal grid of square cells,
 each of which is in one of two possible states, alive or dead (populated or unpopulated).
